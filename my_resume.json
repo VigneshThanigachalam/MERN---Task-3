@@ -1,0 +1,64 @@
+{
+    "basics": {
+        "name": "Vignesh T",
+        "email": "vigneshthanika03@gmail.com",
+        "phone": "9952671261",
+        "degree": "B.tech (Information Technology)",
+        "location": {
+            "address": "No:4/183, Ranganathan Street, Kadambathur",
+            "postalCode": "631203",
+            "city": "Chennai",
+            "countryCode": "IND",
+            "region": "Tamil Nadu"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Vignesh Thanikachalam",    
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Rentokil-PCI",
+            "position": "Software Engineer",
+            "website": "The URL for the employer's website",
+            "startDate": "15-10-2021",
+            "endDate": "",
+            "summary": "Creating Appscript Project",
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indhira Institute of Engineering and Technology",
+            "area": "Information Technology",
+            "studyType": "Day scholar",
+            "startDate": "2017",
+            "endDate": "2022",
+            "gpa": "",
+            "courses": [
+                "MERN"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Front-end",
+            "level": "Intermidiate",
+            "keywords": [
+                "HTML, CSS, JAVASCRIPT"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Tamil",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Watching motivational video"
+        }
+    ]
+}
