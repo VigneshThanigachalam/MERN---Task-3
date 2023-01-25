@@ -14,7 +14,7 @@
         "profiles": [
             {
                 "network": "LinkedIn",
-                "username": "Vignesh Thanikachalam",    
+                "username": "Vignesh Thanikachalam"
             }
         ]
     },
@@ -25,7 +25,7 @@
             "website": "The URL for the employer's website",
             "startDate": "15-10-2021",
             "endDate": "",
-            "summary": "Creating Appscript Project",
+            "summary": "Creating Appscript Project"
         }
     ],
     "education": [
@@ -36,18 +36,14 @@
             "startDate": "2017",
             "endDate": "2022",
             "gpa": "",
-            "courses": [
-                "MERN"
-            ]
+            "courses": ["MERN"]
         }
     ],
     "skills": [
         {
             "name": "Front-end",
             "level": "Intermidiate",
-            "keywords": [
-                "HTML, CSS, JAVASCRIPT"
-            ]
+            "keywords": ["HTML, CSS, JAVASCRIPT"]
         }
     ],
     "languages": [
